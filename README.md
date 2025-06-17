@@ -31,11 +31,6 @@ This project is a static, responsive homepage for Kyara Beverages, built as part
 - **Google Fonts**: Montserrat and Lato were selected to align with the typography identified in the job posting image, ensuring the design reflects Kyara’s modern and fresh brand ethos.
 - **SVG Usage**: Inline SVGs were used for textures and shapes to keep the page lightweight and dependency-free, while adding visual flair that matches the beverage theme (e.g., bubbles, watercolor effects).
 
-## Notes
-
-- **Images**: The project references placeholder images (`images/logo.png`, `images/drink1.png`, etc.). Replace these with actual assets to see the full design.
-- **Parallax Effect**: The hero section uses a parallax effect (`background-attachment: fixed`). On devices that don’t support this (e.g., some mobile browsers), a fallback (`background-attachment: scroll`) ensures the background still displays.
-- **Responsiveness**: The page is optimized for screen sizes from mobile (≤480px) to desktop (≥1024px), with adjustments to font sizes, padding, and layout for a seamless experience.
 
 Images
 ![image](https://github.com/user-attachments/assets/ba499a84-668b-46e2-9374-82e63f4b529e)
